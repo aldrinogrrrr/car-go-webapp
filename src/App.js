@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          CarGo Web Application HomePage Test
+          CarGo Web Application HomePage Again
         </p>
       </header>
     </div>
